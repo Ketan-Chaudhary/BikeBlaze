@@ -10,6 +10,7 @@ import { Manufacturing } from "./components/manufacturing"
 import { Community } from "./components/community"
 import { News } from "./components/news"
 import { Footer } from "./components/footer"
+import { NotificationBar } from "./components/notification-bar"
 
 export default function Home() {
   return (
