@@ -11,19 +11,19 @@ const products = [
     {
       name: "Ola S1 Pro",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
     {
       name: "Ola S1 Air",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
     {
       name: "Ola S1 X",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
   ],
@@ -31,13 +31,13 @@ const products = [
     {
       name: "Ola S1 Z",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
     {
       name: "Ola Gig",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
   ],
@@ -45,19 +45,19 @@ const products = [
     {
       name: "Roadster X",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
     {
       name: "Roadster",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
     {
       name: "Roadster Pro",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-20%20085956-KOg4TX2CpXfXagz0UlRepJrM9LMv0l.png",
+        "public/menuS1.png",
       href: "#",
     },
   ],

@@ -5,8 +5,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ola Electric - India's #1 EV",
-  description: "Switch to India's #1 EV with upto ₹20,000 off on the Ola S1",
+  title: "Kabira Mobility - India's #1 EV",
+  description: "Switch to India's #1 EV with upto ₹20,000 off on the Kabira Mobility S1",
 }
 
 export default function RootLayout({
