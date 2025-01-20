@@ -111,7 +111,7 @@ export function Header() {
         ${isScrolled ? "bg-white shadow-md" : "bg-transparent"}`}
       >
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <Image src="/placeholder.svg" alt="OLA" width={80} height={40} />
+          Ola Clone
           <Button
             variant="ghost"
             size="icon"
