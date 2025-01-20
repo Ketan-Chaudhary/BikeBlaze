@@ -116,7 +116,7 @@ export function Header() {
             variant="ghost"
             size="icon"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
-            className={`${isScrolled ? "text-black" : "text-white"} ${isMenuOpen ? "hidden" : ""}`}
+            className={`${isScrolled ? "text-black" : "text-black"} ${isMenuOpen ? "hidden" : ""}`}
           >
             <Menu className="h-6 w-6" />
           </Button>
